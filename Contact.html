@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="text/javascript" src="script.js"></script>
+    <link rel="stylesheet" type="text/css" href="contact.css">
+    <title>Contact</title>
+</head>
+<body>
+    <!-- Banner Section -->
+    <header class="banner">
+        <nav class="navbar">
+            <!-- Logo -->
+            <img src="logo.png" class="logo" alt="Website Logo">
+                <!--Smith, W. 2024. Flag of Singapore. Encyclopaedia Britannica. [image] Available at: https://cdn.britannica.com/36/4036-050-37052A78/Flag-Singapore.jpg [Accessed: 1 November 2024]-->
+            <!-- Navigation Links -->
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="History Page.html">History</a></li>
+                <li><a href="Culture Page.html">Culture</a></li>
+                <li><a href="Activities Page.html">Activities</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main Contact Form Section -->
+    <main class="contact">
+        <h2>Contact Us!</h2>
+        <form id="contactForm" action="#" method="post">
+            <!-- Input Fields Section -->
+            <div class="input-box">
+                <div class="input-field">
+                    <!-- Full Name Input -->
+                    <input type="text" placeholder="Full Name" id="name" class="item" autocomplete="off" required>
+                    <div class="error-txt">This area can't be blank!</div>
+                </div>
+                <div class="input-field">
+                    <!-- Email Input -->
+                    <input type="email" placeholder="Email Address" id="email" class="item" autocomplete="off" required>
+                    <div class="error-txt">This box can't be blank!</div>
+                </div>
+            </div>
+
+            <div class="input-box">
+                <div class="input-field">
+                    <!-- Phone Number Input -->
+                    <input type="tel" placeholder="Phone Number" id="phone" class="item" autocomplete="off" required>
+                    <div class="error-txt">This box can't be blank!</div>
+                </div>
+                <div class="input-field">
+                    <!-- Subject Input -->
+                    <input type="text" placeholder="Subject" id="subject" class="item" autocomplete="off" required>
+                    <div class="error-txt">This box can't be blank!</div>
+                </div>
+            </div>
+
+            <!-- Message Textarea -->
+            <div class="textarea-field">
+                <textarea placeholder="Your Message" id="message" cols="30" rows="10" class="item" autocomplete="off" required></textarea>
+                <div class="error-txt">This box can't be blank!</div>
+            </div>
+
+            <!-- Submit Button -->
+            <button type="submit">Insert Message</button>
+            <p><br></br>
+            You can also contact us via email or phone here:</p>
+            <p>aqel0205@gmail.com</p>
+            <p>+673 6772849</p>
+        </form>
+    </main>
+</body>
+</html>
