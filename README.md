@@ -1,8 +1,8 @@
-# CS4127-A1-PENGI52505
-
 GitHub link
-https://qel15.github.io/CS4127-A1-PENGI52505/ 
-
+Repository:
+https://github.com/qel15/CS4127-A1-PENGI52505.git 
+Website:
+https://qel15.github.io/CS4127-A1-PENGI52505/
 Development Log
 Date: 1-11-2024 
 Home page
@@ -167,7 +167,7 @@ Code
                 Singapore, officially the Republic of Singapore, is an island country and city-state located in Southeast Asia.
                 <br>Singapore is a sunny, tropical island in Southeast Asia, off the southern tip of the Malay Peninsula.<br> The
                 country is 710 square kilometres and consists of five million people
-                <br> For more information, you can visit their wiki <a href="https://en.wikipedia.org/wiki/Singapore" target="_blank" class="link-color">here</a><br>
+                <br> For more information, you can visit their wiki <a href="https://en.wikipedia.org/wiki/Singapore" target="_blank" class="link-color">here</a>.
                 <!--Ministry of Foreign Affairs Singapore. 2024. About Singapore. Singapore Ministry of Foreign Affairs. Available at: https://www.mfa.gov.sg/Overseas-Mission/Washington/About-Singapore#:~:text=Singapore%20is%20a%20sunny%2C%20tropical,%2C%20Malay%2C%20Indian%20and%20Eurasian [Accessed: 1 November 2024]-->
             </p>
             <!-- Buttons linking to external video and internal contact page -->
@@ -307,7 +307,6 @@ Code
 .link-color {
     color: #add8e6;
 }
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -377,7 +376,7 @@ Code
             the prime minister at the time, Lee Kuan Yew, was overwhelmed with emotions and broke down as he had a vision
             to merge Malaysia and Singapore and believed that the union would benefit both countries in so many ways. He
             envisioned what people at that time called a "Malaysian Malaysia," where everyone would be treated equally with
-            the same rights, creating a prosperous society.</p>
+            the same rights, creating a prosperous society. For a more detailed explanation, you can visit <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=dc1efe7a-8159-40b2-9244-cdb078755013" target="_blank" class="link-color">this page</a>.</p>
                     <!--National Library Board Singapore. 2014. Singapore’s Separation from Malaysia. [online] Available at: https://www.nlb.gov.sg/main/article-detail?cmsuuid=dc1efe7a-8159-40b2-9244-cdb078755013 [Accessed: 1 November 2024]-->
                 </div>
                 <!-- Button with link to video -->
@@ -416,7 +415,6 @@ Code
     </div>
 </body>
 </html>
-
 * {
     margin: 0;
     padding: 0;
@@ -512,6 +510,10 @@ h2 {
     color: #fff;
     margin-left: 15px;
     line-height: 1.6;
+}
+
+.link-color {
+    color: #add8e6;
 }
 
 /* Image container styling */
@@ -614,7 +616,6 @@ h2 {
     content: "";
     clear: both;
 }
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -743,7 +744,6 @@ h2 {
     </div>
 </body>
 </html>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -776,7 +776,7 @@ h2 {
             <!-- Introduction Section -->
             <section class="activities-text-content">
                 <h1 class="heading1">Activities to do in Singapore</h1>
-                <p>As a country known for being very well developed and where it makes most of its money from tourism, you can expect to find a lot of things to do and places to visit. As mentioned in <a href="culture-page.html" target="_self" class="link-color">this page</a>, there are a number of buildings or other structures that many tourists or even locals will look at in awe of the building's beauty. While there are a lot of huge buildings in Singapore, it's not a completely concrete jungle. There are other activities available outdoors such as going to zoos, parks, beautiful beaches, etc. Here are some places I personally would recommend:</p>
+                <p>As a country known for being very well developed and where it makes most of its money from tourism, you can expect to find a lot of things to do and places to visit. As mentioned in <a href="culture-page.html" target="_self" class="link-color">this page</a>, there are a number of buildings or other structures that many tourists or even locals will look at in awe of the building's beauty. While there are a lot of huge buildings in Singapore, it's not a completely concrete jungle. <a href="https://www.visitsingapore.com/" target="_blank" class="link-color">this website</a> is also a good place to look for places to go to but Here are some places I personally would recommend:</p>
             </section>
 
             <!-- Gardens by the Bay Section -->
@@ -872,29 +872,29 @@ h2 {
                         </div>
                         <div class="image-container">
                             <img src="giraffe.jpg" alt="Giraffes" class="side-by-side-image2">
-                            <!-- Mandai, 2024. Aldabra Giant Tortoise. [online] Available at: https://www.mandai.com/en/singapore-zoo/animals-and-zones/giraffe.html [Accessed: 9 November 2024] -->
+                            <!-- Mandai, 2024. Giraffe. [online] Available at: https://www.mandai.com/en/singapore-zoo/animals-and-zones/giraffe.html [Accessed: 9 November 2024] -->
                             <p class="caption">Giraffes</p>
                         </div>
                         <div class="image-container">
                             <img src="otter.jpg" alt="Otters" class="side-by-side-image2">
-                            <!-- Mandai, 2024. Aldabra Giant Tortoise. [online] Available at: https://www.mandai.com/en/singapore-zoo/animals-and-zones/asian-small-clawed-otter.html [Accessed: 9 November 2024] -->
+                            <!-- Mandai, 2024. Asian small-clawed otter. [online] Available at: https://www.mandai.com/en/singapore-zoo/animals-and-zones/asian-small-clawed-otter.html [Accessed: 9 November 2024] -->
                             <p class="caption">Otters</p>
                         </div>
                     </div>
                     <div class="zoo-animals">
                         <div class="image-container">
                             <img src="lion.jpg" alt="Lions" class="side-by-side-image2">
-                            <!-- Mandai, 2024. Aldabra Giant Tortoise. [online] Available at: https://www.mandai.com/en/singapore-zoo/animals-and-zones/lion.html [Accessed: 9 November 2024] -->
+                            <!-- Mandai, 2024. Lion. [online] Available at: https://www.mandai.com/en/singapore-zoo/animals-and-zones/lion.html [Accessed: 9 November 2024] -->
                             <p class="caption">Lions</p>
                         </div>
                         <div class="image-container">
                             <img src="zebra.jpg" alt="Zebras" class="side-by-side-image2">
-                            <!-- Mandai, 2024. Aldabra Giant Tortoise. [online] Available at: https://www.mandai.com/en/singapore-zoo/animals-and-zones/zebra.html [Accessed: 9 November 2024] -->
+                            <!-- Mandai, 2024. Zebra. [online] Available at: https://www.mandai.com/en/singapore-zoo/animals-and-zones/zebra.html [Accessed: 9 November 2024] -->
                             <p class="caption">Zebras</p>
                         </div>
                         <div class="image-container">
                             <img src="cheetah.jpg" alt="Cheetah" class="side-by-side-image2">
-                            <!-- Mandai, 2024. Aldabra Giant Tortoise. [online] Available at:  https://www.mandai.com/en/singapore-zoo/animals-and-zones/cheetah.html [Accessed: 9 November 2024] -->
+                            <!-- Mandai, 2024. Cheetah. [online] Available at:  https://www.mandai.com/en/singapore-zoo/animals-and-zones/cheetah.html [Accessed: 9 November 2024] -->
                             <p class="caption">Cheetah</p>
                         </div>
                     </div>
@@ -1463,12 +1463,12 @@ button:hover {
     background: transparent;
     box-shadow: none;
 }
-
+//hover effect
 function navigateTo(theme) {
     const pageName = theme.replace(/\s+/g, '-') + ".html";
     window.location.href = Activities Page.html;
 }
-
+//Error Message pop up
 const form = document.getElementById('contactForm');
 const inputs = form.querySelectorAll('.item');
 const errorMessages = form.querySelectorAll('.error-txt');
@@ -1511,5 +1511,43 @@ form.addEventListener('submit', validateForm);
 References: 
 Home page:
 1.	Ministry of Foreign Affairs Singapore. 2024. About Singapore. Singapore Ministry of Foreign Affairs. Available at: https://www.mfa.gov.sg/Overseas-Mission/Washington/About-Singapore#:~:text=Singapore%20is%20a%20sunny%2C%20tropical,%2C%20Malay%2C%20Indian%20and%20Eurasian [Accessed: 1 November 2024]
-2.	
-
+2.	Kwik, C. (2023). Transforming Singapore towards sustainable tourism and urban living. [online] Open Access Government. Available at: https://www.openaccessgovernment.org/wp-content/uploads/2023/04/iStock-1173371572-scaled.jpg. [Accessed: 1 November 2024]
+3.	Smith, W. 2024. Flag of Singapore. Encyclopaedia Britannica. [image] Available at: https://cdn.britannica.com/36/4036-050-37052A78/Flag-Singapore.jpg [Accessed: 1 November 2024]
+4.	Lo, A., 2017. Old Singapore: A glimpse of the past. CNN. [online] Available at: https://edition.cnn.com/travel/gallery/old-singapore/index.html [Accessed 1 November 2024]
+5.	Chew, I. 2020., The legend of Sang Nila Utama. Kontinentalist. [image] Available at: https://kontinentalist.com/stories/singapore-sang-nila-utama-legend [Accessed: 1 November 2024]
+6.	Leinbach, T.R. and Ho, R., (n.d). History of Singapore. Encyclopaedia Britannica. [online] Available at: https://www.britannica.com/topic/history-of-Singapore [Accessed 1 November 2024]
+7.	Chew, I. 2020. The legend of Sang Nila Utama. Kontinentalist. [online] Available at: https://cdn-media.kontinentalist.com/did-sang-nila-utama-really-see-a-lion-1620384080/did-sang-nila-utama-really-see-a-lion-1620384080.png [Accessed: 1 November 2024]
+8.	National Library Board Singapore. 2014. Singapore’s Separation from Malaysia. [online] Available at: https://www.nlb.gov.sg/main/article-detail?cmsuuid=dc1efe7a-8159-40b2-9244-cdb078755013 [Accessed: 1 November 2024]
+9.	Fharose, D.G., 2021. Image of Tunku Abdul Rahman. [image] Available at: https://media.licdn.com/dms/image/v2/C4D12AQFeCYxTMjbxqQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1628795751934?e=2147483647&v=beta&t=ryLDSif9thnmBZrGvr0J7VgoYoHXHsCbyj_OFBoB-7g [Accessed 1 November 2024]
+10.	NLB (National Library Board), 2024. Singapore separates from Malaysia and becomes independent. [online] Available at: https://www.nlb.gov.sg/main/article-detail?cmsuuid=dc1efe7a-8159-40b2-9244-cdb078755013 [Accessed 1 November 2024]
+11.	ANA (All Nippon Airways), 2024. Singapore. [image] Available at: https://www.ana.co.jp/www2/plan-book/where-we-travel/singapore/singapore-02.jpg [Accessed 1 November 2024]
+12.	Kaizenaire, (n.d). Night market Singapore: A Guide to the Best Street Food and Shopping. [online] Available at: https://kaizenaire.com/sg/night-market-singapore-a-guide-to-the-best-street-food-and-shopping/ [Accessed 3 November 2024]
+13.	Weisholtz, D., 2020. When will it be ok to shake hands? How should you greet others after COVID-19?. [online] Today. Available at: https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1000w,f_auto,q_auto:best/newscms/2020_14/1554952/hank-shake-continue-today-main-200403.jpg [Accessed 2 November 2024]
+14.	McCay, T.M., 2024. Etiquette: Should Guests Take Their Shoes Off? Southern Living [online] Available at: https://cdn.jwplayer.com/v2/media/fUmZ7qY6/poster.jpg?width=720 [Accessed 2 November 2024]
+15.	Nag, A. (2022). Culture of Singapore - Traditions, Cuisine, Language, Religion. [online] Holidify. Available at: https://www.holidify.com/pages/culture-of-singapore-1161.html. [Accessed 2 Nov 2024]
+16.	Aventis Learning, 2020. Singlish vs English: How to improve communication in the workplace. [online] Available at: https://aventislearning.com/wp-content/uploads/2020/05/singlish-3.png [Accessed: 2 November 2024]
+17.	Arup, 2024. Marina Bay Sands Integrated Resort. [online] Available at: https://www.arup.com/globalassets/images/projects/m/marina-bay-sands-integrated-resort/marina-bay-sands-integrated-resort-header.webp?width=1840&height=1035&quality=80 [Accessed 2 November 2024]
+18.	Headout, 2024. Gardens by the Bay. [online] Available at: https://cdn-imgix.headout.com/media/images/4057a5f45bb32fbfa9cb4c83a49895f5-Gardens%20by%20the%20bay.jpg (Accessed: 2 November 2024) 
+19.	Ho, G., 2021. More Singaporeans have no religious affiliation: Population census. The Straits Times. [online] Available at: https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2021/06/16/nz_religiousleaders_160628.jpg?VersionId=FWm0JJnBiZtGL6ZqVaM3smaMGU8ypLIy (Accessed: 2 November 2024)
+20.	Miner, W. (2023). In Singapore, religious diversity and tolerance go hand in hand. [online] Pew Research Center. Available at: https://www.pewresearch.org/short-reads/2023/10/06/in-singapore-religious-diversity-and-tolerance-go-hand-in-hand/. [Accessed: 2 November 2024]
+21.	Timeout, 2023. The ultimate guide to Jewel Changi Airport. [online] Available at: https://www.timeout.com/singapore/things-to-do/the-ultimate-guide-to-jewel-changi-airport#google_vignette [Accessed 8 November 2024] 
+22.	Gardens by the Bay, 2023. Attractions. [online] Available at: https://www.gardensbythebay.com.sg/en/things-to-do/attractions.html [Accessed 8 November 2024]
+23.	Free Icons PNG, 2024. Image 46031. [online] Available at: https://www.freeiconspng.com/img/46031 (Accessed: 8 November 2024)
+24.	Vecteezy, 2024. Instagram Logo Icon Transparent Background. [online] Available at: https://static.vecteezy.com/system/resources/previews/045/934/243/non_2x/instagram-logo-icon-transparent-background-free-png.png (Accessed: 8 November 2024)
+25.	Free PNG Logo, 2024. Twitter X Logo. [online] Available at: https://freepnglogo.com/images/all_img/1725374683twitter-x-logo.png (Accessed: 8 November 2024)
+26.	Holidaysworld PTE.LTD, 2024. Universal Studios Singapore Full-Day Pack with Two-way Transfers. [online] Available at: https://www.tripadvisor.com/AttractionProductReview-g294264-d27993529-Universal_Studios_Singapore_Full_Day_pack_with_Two_way_Transfers-Sentosa_Island.html [Accessed: 8 November 2024]
+27.	Resorts World Sentosa, 2024. USS Hollywood Zone. [online] Available at: https://www.rwsentosa.com/-/jssmedia/project/non-gaming/rwsentosa/attractions/universal-studios-singapore/zones/uss-hollywood-750-x-422.jpg?h=422&iar=0&w=750&rev=7a6d757e4aab4747b9f9cce39328ab7c&hash=102F1210C678774DCADB9D748CB8161B (Accessed: 9 November 2024)
+28.	Resorts World Sentosa, 2024. USS New York Lights, Camera, Action Show. [online] Available at: https://www.rwsentosa.com/-/jssmedia/project/non-gaming/rwsentosa/attractions/universal-studios-singapore/shows/uss-new-york-lights-camera-action-750x422.jpg?h=422&iar=0&w=750&rev=aa96796c42174f04b753a86000590d56&extension=webp&hash=5B34818A158CC27B9FAB521F19899992 (Accessed: 9 November 2024)
+29.	Producers Group, 2024. Sci-Fi City. [online] Available at: https://producers-group.com/project/sci-fi-city/ [Accessed: 9 November 2024]
+30.	Dreamstime, 2024. Entrance to Revenge of the Mummy Indoor Dark Ride, Ancient Egypt, Universal Studios Singapore. [online] Available at: https://thumbs.dreamstime.com/b/entrance-to-revenge-mummy-indoor-dark-ride-ancient-egypt-universal-studios-singapore-38650264.jpg [Accessed: 9 November 2024]
+31.	Resorts World Sentosa, 2024. USS Lost World Canopy Flyer Ride. [online] Available at: https://www.rwsentosa.com/-/jssmedia/project/non-gaming/rwsentosa/attractions/universal-studios-singapore/rides/uss-lost-world-canopy-flyer-750-x-422.jpg?mw=749&mh=421 [Accessed: 9 November 2024]
+32.	Kumar, A., 2021. Far, Far Away. [online] Available at: https://www.flickr.com/photos/nomad_gsx/52006906960 [Accessed: 9 November 2024]
+33.	Jain, B., 2020. #SomeGoodNews: Singapore's Iconic Marina Bay Sands Finally Reopens Its Doors!. [online] Available at: https://www.travelandleisureasia.com/in/news/marina-bay-sands-reopened/ (Accessed: 9 November 2024)
+34.	Safdie, M., 2011. Case Study, Marina Bay Sands, Singapore. CTBUH J, 2011(1217), p.12.
+35.	Bolton, J. (2018). Singapore Zoo Guide: What To See & Top Tips For Your Visit. [online] acouplescalling. Available at: https://www.acouplescalling.com/why-you-have-to-visit-singapore-zoo [Accessed 9 Nov. 2024] 
+36.	Mandai, 2024. Aldabra Giant Tortoise. [online] Available at: https://www.mandai.com/en/singapore-zoo/animals-and-zones/aldabra-giant-tortoise.html [Accessed: 9 November 2024]
+37.	Mandai, 2024. Giraffe. [online] Available at: https://www.mandai.com/en/singapore-zoo/animals-and-zones/giraffe.html [Accessed: 9 November 2024]
+38.	Mandai, 2024. Asian small-clawed otter. [online] Available at: https://www.mandai.com/en/singapore-zoo/animals-and-zones/asian-small-clawed-otter.html [Accessed: 9 November 2024]
+39.	Mandai, 2024. Lion. [online] Available at: https://www.mandai.com/en/singapore-zoo/animals-and-zones/lion.html [Accessed: 9 November 2024]
+40.	Mandai, 2024. Zebra. [online] Available at: https://www.mandai.com/en/singapore-zoo/animals-and-zones/zebra.html [Accessed: 9 November 2024]
+41.	Mandai, 2024. Cheetah. [online] Available at:  https://www.mandai.com/en/singapore-zoo/animals-and-zones/cheetah.html [Accessed: 9 November 2024]
