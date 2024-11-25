@@ -95,6 +95,10 @@ h2 {
     line-height: 1.6;
 }
 
+.link-color {
+    color: #add8e6;
+}
+
 /* Image container styling */
 .image {
     width: 35%;
