@@ -1,3 +1,4 @@
+//hover effect
 function navigateTo(theme) {
     const pageName = theme.replace(/\s+/g, '-') + ".html";
     window.location.href = Activities Page.html;
@@ -19,7 +20,7 @@ function validateField(field) {
     }
 }
 
-
+//Error Message pop up
 function validateForm(event) {
     let isValid = true;
 
